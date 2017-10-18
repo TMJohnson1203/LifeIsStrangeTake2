@@ -1,0 +1,46 @@
+﻿/*General Styling*/
+body{
+    background-color:#FFF6F0;
+}
+#logoImg{
+    width:200px;
+}
+div.page-header{
+    margin-top:0px;
+    background-color:antiquewhite;
+    padding-top:3px;
+    margin-bottom:0px;
+}
+nav#navvy.navbar.navbar-static-top{
+   background-color:#6a1525;
+   margin-bottom:0px; 
+}
+#navvy a{
+   color:#FFF6F0;
+}
+#navvy a:hover{
+    background:none;
+}
+/*trailer section*/
+.mainSec {
+    background-image: url('Content/junkyard.jpg');
+    background-size: cover;
+}
+h1.container#trailer {
+    text-align: right;
+}
+/*Thumbnail section*/
+.previewThem {
+    margin: auto;
+    /*Button*/
+}
+button.navbar-toggle{
+    border:1px solid #FFF6F0;
+}
+span.icon-bar{
+    border:1px solid #FFF6F0;
+}
+/*PREVIEW SECTION*/
+.previewThem{
+   margin: auto;
+}
